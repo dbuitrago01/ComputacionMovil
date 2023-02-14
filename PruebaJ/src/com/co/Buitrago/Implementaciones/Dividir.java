@@ -7,7 +7,7 @@ public abstract class Dividir implements OperacionInterface {
 	@Override
 	public double dividir(double a, double b) {
 		// TODO Auto-generated method stub
-		return 0;
+		return a/b;
 	}
 
 }
